@@ -26,7 +26,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Tobymaxham\\Typo3\\": "src/",
+			"Tobymaxham\\Typo3\\": "Classes/",
 		}
 	}
 }
