@@ -7,7 +7,7 @@
 			"name": "Tobias Maxham",
 			"role": "Developer",
 			"homepage": "http://maxham.de"
-		},
+		}
 	],
 	"config": {
 		"vendor-dir": "typo3conf/ext"
