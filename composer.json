@@ -13,20 +13,20 @@
 		"vendor-dir": "typo3conf/ext"
 	},
 	"scripts": {
-        "post-install-cmd": [
-            "php max make:default",
-            "php max clear:database",
-        ],
-        "post-update-cmd": [
-            "php max clear:database"
-        ]
+	        "post-install-cmd": [
+	            "php max make:default",
+	            "php max clear:database",
+	        ],
+	        "post-update-cmd": [
+	            "php max clear:database"
+	        ]
 	},
 	"require": {
 		"php": ">=5.3.7"
 	},
 	"autoload": {
 		"psr-4": {
-			"Tobymaxham\\Typo3\\": "Classes/",
+			"Tobymaxham\\Typo3\\": "Classes/"
 		}
 	}
 }
