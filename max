@@ -1,4 +1,6 @@
 #!/usr/bin/env php
 <?php
 
-echo 'done';
+rename("Packages/Libraries/tobymaxham/typo3-test", "typo3conf/ext/typo3-test");
+
+exit(0);
