@@ -3,4 +3,8 @@
 // Nur eine Vorschau. Die Originaldatei liegt im TYPO3 Projekt
 rename("Packages/Libraries/tobymaxham/typo3-test", "typo3conf/ext/typo3-test");
 
+// anpassen DB
+
+// anpassen Cache
+
 exit(0);
